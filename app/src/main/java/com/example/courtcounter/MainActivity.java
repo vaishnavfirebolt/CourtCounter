@@ -63,6 +63,6 @@ public class MainActivity extends AppCompatActivity {
         scoreTeamB = 0;
         scoreTeamA = 0;
         displayForTeamA(scoreTeamA);
-        displayForTeamA(scoreTeamB);
+        displayForTeamB(scoreTeamB);
     }
 }
